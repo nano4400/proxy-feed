@@ -1,104 +1,6 @@
 [
   {
     "name": "@Free_MTProto_Proxy",
-    "server": "welcome2.v6n.tech",
-    "port": "443",
-    "secret": "ee7a29d29b78fc18e2841ad9c38d38c0197777772e626f6f6b696e672e636f6d",
-    "link": "tg://proxy?server=welcome2.v6n.tech&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "deproxy.kochvpn.pw",
-    "port": "443",
-    "secret": "eeb11b4ef283d0ee9112ce480f8089ee96646570726f78792e6b6f636876706e2e7077",
-    "link": "tg://proxy?server=deproxy.kochvpn.pw&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "191.96.94.65",
-    "port": "8443",
-    "secret": "yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq",
-    "link": "tg://proxy?server=191.96.94.65&port=8443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "quick.proxytg.space",
-    "port": "8443",
-    "secret": "eea7ad19b7d0642dbcfdc375b86f822c13717569636b2e70726f787974672e7370616365",
-    "link": "tg://proxy?server=quick.proxytg.space&port=8443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "201.3.237.32",
-    "port": "443",
-    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
-    "link": "tg://proxy?server=201.3.237.32&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "taqdim-be-to.0-1-2-1.ir",
-    "port": "443",
-    "secret": "AAAAAAAAAAAAAAAAAAAAAA",
-    "link": "tg://proxy?server=taqdim-be-to.0-1-2-1.ir&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "kabak.aqil.ru",
-    "port": "443",
-    "secret": "eead8d689a4deb72c55a6386dff02eaea86b6162616b2e6171696c2e7275",
-    "link": "tg://proxy?server=kabak.aqil.ru&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "fast.barhousefarm.co.uk",
-    "port": "443",
-    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-    "link": "tg://proxy?server=fast.barhousefarm.co.uk&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "relay.proxyb.site",
-    "port": "443",
-    "secret": "eee44d66eddf13d2a5e8bd60aed3226ec972656c61792e70726f7879622e73697465",
-    "link": "tg://proxy?server=relay.proxyb.site&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "nolags.proxytg.space",
-    "port": "8443",
-    "secret": "eeda2f2ae81644991462f36567c386699e6e6f6c6167732e70726f787974672e7370616365",
-    "link": "tg://proxy?server=nolags.proxytg.space&port=8443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "electrocision.filthy.karate.paints.pawl.watchpinoyteleserye.com",
-    "port": "1550",
-    "secret": "7b8b785fa853a5a73c47966fbce6a193",
-    "link": "tg://proxy?server=electrocision.filthy.karate.paints.pawl.watchpinoyteleserye.com&port=1550&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "150.241.70.0",
-    "port": "443",
-    "secret": "eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275",
-    "link": "tg://proxy?server=150.241.70.0&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "ir.download.iranbetter.site",
-    "port": "443",
-    "secret": "7hIhPtJ392txIJOOkMM0DSx3d3cueWFob28uY29t",
-    "link": "tg://proxy?server=ir.download.iranbetter.site&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
-    "server": "fleethop.online",
-    "port": "443",
-    "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65",
-    "link": "tg://proxy?server=fleethop.online&port=443&secret="
-  },
-  {
-    "name": "@Free_MTProto_Proxy",
     "server": "horse.baboon.digital",
     "port": "7000",
     "secret": "ee81c8859edbe6515397c8a79550708aaf636c6f7564666c6172652e636f6d",
@@ -127,10 +29,24 @@
   },
   {
     "name": "@Free_MTProto_Proxy",
+    "server": "kabak.aqil.ru",
+    "port": "443",
+    "secret": "eead8d689a4deb72c55a6386dff02eaea86b6162616b2e6171696c2e7275",
+    "link": "tg://proxy?server=kabak.aqil.ru&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
     "server": "medblock.fit",
     "port": "443",
     "secret": "ee42c68d1f568a3ce918f926dd7d1283c66d6564626c6f636b2e666974",
     "link": "tg://proxy?server=medblock.fit&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "welcome2.v6n.tech",
+    "port": "443",
+    "secret": "ee7a29d29b78fc18e2841ad9c38d38c0197777772e626f6f6b696e672e636f6d",
+    "link": "tg://proxy?server=welcome2.v6n.tech&port=443&secret="
   },
   {
     "name": "@Free_MTProto_Proxy",
@@ -141,6 +57,13 @@
   },
   {
     "name": "@Free_MTProto_Proxy",
+    "server": "quick.proxytg.space",
+    "port": "8443",
+    "secret": "eea7ad19b7d0642dbcfdc375b86f822c13717569636b2e70726f787974672e7370616365",
+    "link": "tg://proxy?server=quick.proxytg.space&port=8443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
     "server": "132.243.235.187",
     "port": "443",
     "secret": "ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275",
@@ -148,10 +71,24 @@
   },
   {
     "name": "@Free_MTProto_Proxy",
+    "server": "201.3.237.32",
+    "port": "443",
+    "secret": "ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275",
+    "link": "tg://proxy?server=201.3.237.32&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
     "server": "2.27.25.192",
     "port": "443",
     "secret": "ee038521d3753473464064e3bb49abadb26d61696c2e7275",
     "link": "tg://proxy?server=2.27.25.192&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "150.241.70.0",
+    "port": "443",
+    "secret": "eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275",
+    "link": "tg://proxy?server=150.241.70.0&port=443&secret="
   },
   {
     "name": "@Free_MTProto_Proxy",
@@ -190,6 +127,13 @@
   },
   {
     "name": "@Free_MTProto_Proxy",
+    "server": "nolags.proxytg.space",
+    "port": "8443",
+    "secret": "eeda2f2ae81644991462f36567c386699e6e6f6c6167732e70726f787974672e7370616365",
+    "link": "tg://proxy?server=nolags.proxytg.space&port=8443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
     "server": "130.193.37.72",
     "port": "443",
     "secret": "eedf3956f76ab923f6f432a06cd6f9ab537365637572652e6d6564686174612e6f7267",
@@ -201,6 +145,13 @@
     "port": "443",
     "secret": "ee41e9181b0ade56f5fae8a698481d5dba7777772e6d63692e6972",
     "link": "tg://proxy?server=91.99.135.107&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "electrocision.filthy.karate.paints.pawl.watchpinoyteleserye.com",
+    "port": "1550",
+    "secret": "7b8b785fa853a5a73c47966fbce6a193",
+    "link": "tg://proxy?server=electrocision.filthy.karate.paints.pawl.watchpinoyteleserye.com&port=1550&secret="
   },
   {
     "name": "@Free_MTProto_Proxy",
@@ -274,6 +225,13 @@
   },
   {
     "name": "@Free_MTProto_Proxy",
+    "server": "ir.download.iranbetter.site",
+    "port": "443",
+    "secret": "7hIhPtJ392txIJOOkMM0DSx3d3cueWFob28uY29t",
+    "link": "tg://proxy?server=ir.download.iranbetter.site&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
     "server": "178.104.177.167",
     "port": "443",
     "secret": "YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ",
@@ -285,6 +243,13 @@
     "port": "443",
     "secret": "ee924fcaa2d7bbc29141ebb48855765b2e676f6f676c652e636f6d",
     "link": "tg://proxy?server=ansooyefilter.jarorobo.ir&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "deproxy.kochvpn.pw",
+    "port": "443",
+    "secret": "eeb11b4ef283d0ee9112ce480f8089ee96646570726f78792e6b6f636876706e2e7077",
+    "link": "tg://proxy?server=deproxy.kochvpn.pw&port=443&secret="
   },
   {
     "name": "@Free_MTProto_Proxy",
@@ -306,6 +271,13 @@
     "port": "443",
     "secret": "ee2552621edbe0526ea130e36e484354e16e657a6170726574696c2e6279706173736c61622e616272646e732e636f6d",
     "link": "tg://proxy?server=nezapretil.bypasslab.abrdns.com&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "fleethop.online",
+    "port": "443",
+    "secret": "eed82e9162b09c2ddfdbe3ddfe7d28d87a666c656574686f702e6f6e6c696e65",
+    "link": "tg://proxy?server=fleethop.online&port=443&secret="
   },
   {
     "name": "@Free_MTProto_Proxy",
@@ -365,6 +337,20 @@
   },
   {
     "name": "@Free_MTProto_Proxy",
+    "server": "191.96.94.65",
+    "port": "8443",
+    "secret": "yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq",
+    "link": "tg://proxy?server=191.96.94.65&port=8443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "relay.proxyb.site",
+    "port": "443",
+    "secret": "eee44d66eddf13d2a5e8bd60aed3226ec972656c61792e70726f7879622e73697465",
+    "link": "tg://proxy?server=relay.proxyb.site&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
     "server": "medblock.ink",
     "port": "443",
     "secret": "ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b",
@@ -376,5 +362,26 @@
     "port": "2053",
     "secret": "7jETLC5WQ7zkN1oXcLSt9I93d3cuY2xvdWRmbGFyZS5jb20",
     "link": "tg://proxy?server=server.gold.g2gstore.ir&port=2053&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "fast.barhousefarm.co.uk",
+    "port": "443",
+    "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
+    "link": "tg://proxy?server=fast.barhousefarm.co.uk&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "taqdim-be-to.0-1-2-1.ir",
+    "port": "443",
+    "secret": "AAAAAAAAAAAAAAAAAAAAAA",
+    "link": "tg://proxy?server=taqdim-be-to.0-1-2-1.ir&port=443&secret="
+  },
+  {
+    "name": "@Free_MTProto_Proxy",
+    "server": "tg.pinkweb.xyz",
+    "port": "47043",
+    "secret": "ee7723b339dfe5b5c9d7e36ee2da0e720a74672e70696e6b7765622e78797a",
+    "link": "tg://proxy?server=tg.pinkweb.xyz&port=47043&secret="
   }
 ]
